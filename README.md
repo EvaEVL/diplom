@@ -32,3 +32,8 @@ Bn - negative bag(без аномалий). Затем предлагается,
 Далее идут детали реализации и подготовки данных.
 
 Код полностью взят [отсюда](https://github.com/seominseok0429/Real-world-Anomaly-Detection-in-Surveillance-Videos-pytorch)
+
+
+После запуска и обучения модели на 1000 эпохах максимальный результат по метрики AUC получился 0.8438 ~ топ 4 SOTA моделей.
+
+Дальнейшее изучение: использовать для извлечения признаков одну из [этих](https://paperswithcode.com/sota/action-classification-on-kinetics-600) моделей.
